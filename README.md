@@ -1,14 +1,21 @@
 Joseph ("Joey") Lincoln @j0ey-code
+
 Project from April, 2025
+
 Northern Essex Community College, Microcontrollers / Assembly Programming
 
 **There and Back: Reverse Engineering BASIC to ASM**
+
 Code optimization at the lowest-level.
+
 "addtl/" has video demo as file and documentation for the PIC18F microcontroller instruction set.
+
 "LCDmsgs.asm" is the code itself — a single Assembly file intended for the PIC18F4XXX microcontroller.
+
 And, for usage with a 128x64 LCD graphical display device. Similar to ones for road signs!
 
 YouTube video showcase and demo here too (messages apppear at the end, first part is just scroll thru code!!)
+
 https://www.youtube.com/shorts/gO_OGjyzrp4
 
 That's what this program is. It just prints simple messages to the display.
